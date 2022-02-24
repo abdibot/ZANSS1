@@ -384,7 +384,7 @@ if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button 
 				break
 case 'infobot':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
-			reply('Update bot selanjutnya silahkan cek YouTube zanss ofc dab jangan lupa subscribe')
+			reply('Update bot selanjutnya silahkan cek YouTube zanss ofc dan jangan lupa subscribe')
 break
 case 'owner':{
 	if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
